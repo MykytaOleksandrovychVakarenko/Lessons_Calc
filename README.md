@@ -61,10 +61,4 @@ Commit message tip: keep them short and descriptive, e.g., `Add: switch examples
 * Write unit tests (xUnit / NUnit) for core methods.
 * Add CI (GitHub Actions) for automatic builds and tests.
 
-## License
 
-Add a `LICENSE` file (MIT is a good choice for learning projects).
-
-## Contact
-
-If you'd like me to customize this README to match your repository's exact structure or include specific launch examples, just let me know!
