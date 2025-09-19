@@ -4,7 +4,7 @@
 
 `Lessons_Calc` is a simple C# learning project containing console/Windows (depending on the structure) examples of a calculator and practical exercises. The repository collects lessons and small programs for practicing C# syntax and fundamental programming techniques.
 
-> If your project differs from this description (for example, it is a GUI app or a set of exercises on "switch"), let me know so I can adjust the README accordingly.
+
 
 ## Features (Example)
 
